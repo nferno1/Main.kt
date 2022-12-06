@@ -1,24 +1,42 @@
+import java.util.Scanner
+
 fun main(args: Array<String>) {
 
-    val longNumber1: Long = 999999999L
-    val floatNumber2: Float = 68.88f
+    if (a !=b && a > b) { }
+    if (a < b || a == b) { }
 
-    val a: Boolean = true
-    val b: Boolean = false
-    val charSymbol1: Char = 'y'
-    val textString: String = "Kotlin - статически типизированный язык программирования, \n разбабатываемый компанией JetBrains"
-    println(textString)
-    val name = "Kotlin"
-    val age = 10
-    val description = "Laguage $name, age: $age"
-    println(description)
+//   print("Введите возраст: ")
+//
+//    val reader = Scanner(System.`in`)
+//    val age = reader.nextInt()
+//
+//    if (age > 18)
+//        print("вам можно пройти в клуб")
+//    if (age == 18)
+//        print("Вам 18 лет")
+//    else
+//        print("вам нельзя пройти в клуб")
 
-    var  typeAny: Any = "Any type" // супертип всех типов
-    typeAny = 4858
-    println(typeAny)
 
-//var variable // изменяемые переменные
-//val value // неизменяемые переменные final
+//    val longNumber1: Long = 999999999L
+//    val floatNumber2: Float = 68.88f
+//
+//    val a: Boolean = true
+//    val b: Boolean = false
+//    val charSymbol1: Char = 'y'
+//    val textString: String = "Kotlin - статически типизированный язык программирования, \n разбабатываемый компанией JetBrains"
+//    println(textString)
+//    val name = "Kotlin"
+//    val age = 10
+//    val description = "Laguage $name, age: $age"
+//    println(description)
+//
+//    var  typeAny: Any = "Any type" // супертип всех типов
+//    typeAny = 4858
+//    println(typeAny)
+//
+////var variable // изменяемые переменные
+////val value // неизменяемые переменные final
 
 
 
