@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin type &#10;continuation">
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin if">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670127208309</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kotlin if">
+      <created>1670320093305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670320093305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
     <MESSAGE value="Kotlin fun" />
     <MESSAGE value="Kotlin type" />
     <MESSAGE value="Kotlin type &#10;continuation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin type &#10;continuation" />
+    <MESSAGE value="Kotlin if" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin if" />
   </component>
 </project>

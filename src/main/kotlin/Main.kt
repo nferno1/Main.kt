@@ -2,8 +2,35 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
 
-    if (a !=b && a > b) { }
-    if (a < b || a == b) { }
+    val age = 19
+    when (age){
+        in 7..18 -> println("школьник")
+        in 18..22 -> println("Бакалавр")
+        in 22..24 -> println("Магистр")
+        in 24..28 -> println("Аспирант")
+        in 18..22 -> println("Бакалавр")
+        in 18..22 -> println("Бакалавр")
+        !in 7..28 -> println("age вне диапозона от 7 до 28")
+        else -> println("неопределенное значение")
+    }
+
+}
+
+//    val a = 18
+//    when {
+//        a < 18 -> println("18")
+//
+//
+//        a < 55 -> println("a < 55")
+//
+//        else -> println("a =< 55")
+//        }
+
+
+
+
+//    if (a !=b && a > b) { }
+//    if (a < b || a == b) { }
 
 //   print("Введите возраст: ")
 //
@@ -41,7 +68,7 @@ fun main(args: Array<String>) {
 
 
 
-}
+
 
 /*
 Byte: -128... 127 // 1 - байт
