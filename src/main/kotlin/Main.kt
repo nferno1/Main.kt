@@ -2,19 +2,89 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
 
-    val age = 19
-    when (age){
-        in 7..18 -> println("школьник")
-        in 18..22 -> println("Бакалавр")
-        in 22..24 -> println("Магистр")
-        in 24..28 -> println("Аспирант")
-        in 18..22 -> println("Бакалавр")
-        in 18..22 -> println("Бакалавр")
-        !in 7..28 -> println("age вне диапозона от 7 до 28")
+    print("Введите число: ")  // задание 5
+    val week = Scanner(System.`in`)
+    val day = week.nextInt()
+
+    when (day){
+        in 1..1 -> println("Понедельник")
+        in 2..2 -> println("Вторник")
+        in 3..3 -> println("Среда")
+        in 4..4 -> println("Четверг")
+        in 5..5 -> println("Пятница")
+        in 6..6 -> println("Суббота")
+        in 7..7 -> println("Воскресенье")
         else -> println("неопределенное значение")
     }
 
+
+//    val a = 5 // задание 4
+//    val b = 6
+//    if (a % 2 == 0)
+//        print("Число " + a + " Четное")
+//
+//    if (b % 2 == 0){
+//        print("Число " + b + " Четное")
+//    }
+
+
 }
+
+
+
+
+//    val a = 5 // задание 3
+//    val b = 3
+//    val c = 2
+//    println(a*b*c)
+
+
+
+
+
+
+//    print("Введите число: ")// задание 2
+//    val number = Scanner(System.`in`)
+//    val number1 = number.nextInt()
+//
+//
+//    val a = 10
+//    val b = 20
+//    if (number1 > a)
+//        print(">")
+//    if (number1 < b)
+//        print("<")
+//    if (number1 == a)
+//        print("=")
+//    if (number1 == b)
+//        print("=")
+
+
+
+
+
+
+
+//    println("Введите ваше имя: ")
+//    println("Введите ваш возраст: ") // домашняя работа Задача 1
+//
+//
+//    val name = readln()
+//    val age = readln() !!.toInt()
+//    println("Привет $name!")
+//    println("Вам: $age")
+
+//    val age = 19
+//    when (age){
+//        in 7..18 -> println("школьник")
+//        in 18..22 -> println("Бакалавр")
+//        in 22..24 -> println("Магистр")
+//        in 24..28 -> println("Аспирант")
+//        !in 7..28 -> println("age вне диапозона от 7 до 28")
+//        else -> println("неопределенное значение")
+//    }
+
+
 
 //    val a = 18
 //    when {
