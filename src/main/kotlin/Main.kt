@@ -1,21 +1,26 @@
 import java.util.Scanner
+//private var name: String? = null
 
 fun main(args: Array<String>) {
 
-    print("Введите число: ")  // задание 5
-    val week = Scanner(System.`in`)
-    val day = week.nextInt()
+  //  println(name?.length)
 
-    when (day){
-        in 1..1 -> println("Понедельник")
-        in 2..2 -> println("Вторник")
-        in 3..3 -> println("Среда")
-        in 4..4 -> println("Четверг")
-        in 5..5 -> println("Пятница")
-        in 6..6 -> println("Суббота")
-        in 7..7 -> println("Воскресенье")
-        else -> println("неопределенное значение")
-    }
+
+
+//    print("Введите число: ")  // задание 5
+//    val week = Scanner(System.`in`)
+//    val day = week.nextInt()
+//
+//    when (day){
+//        in 1..1 -> println("Понедельник")
+//        in 2..2 -> println("Вторник")
+//        in 3..3 -> println("Среда")
+//        in 4..4 -> println("Четверг")
+//        in 5..5 -> println("Пятница")
+//        in 6..6 -> println("Суббота")
+//        in 7..7 -> println("Воскресенье")
+//        else -> println("неопределенное значение")
+//    }
 
 
 //    val a = 5 // задание 4
