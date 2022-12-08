@@ -1,11 +1,27 @@
 import java.util.Scanner
- private var name: String? = "Kotlin"
+// private var name: String? = "Kotlin"
 
 fun main(args: Array<String>) {
-    val presley = name?.length?:0 // если выражение стоящее слева от элвис опретора не является null то эвис опеатор
-    // его вернет в противном случае вернет то что стоит с права, часть кода выполняется с права только если с
-    // лева получается null
-    println(presley)
+
+    val x:IntArray = intArrayOf(5, 9, 45, 96)
+    x[0] = x[1] + x[2] // Сложение в массиве
+    println(x[0])
+
+
+//    val arrNum: Array<Int> = arrayOf(9, 96, 85, 88, 63, 45, 82)
+//    val getNum = arrNum[6]
+//    println(getNum)
+//
+//    val integerNumArr: IntArray = intArrayOf(98, 65,52, 85)
+//    val charSymbArr: CharArray = charArrayOf('a', '#','%') // Массивы
+
+
+
+
+//    val presley = name?.length?:0 // если выражение стоящее слева от элвис опретора не является null то эвис опеатор
+//    // его вернет в противном случае вернет то что стоит с права, часть кода выполняется с права только если с
+//    // лева получается null
+//    println(presley)
 
 
 //    print("Введите число: ")  // задание 5
