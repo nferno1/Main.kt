@@ -1,10 +1,11 @@
 import java.util.Scanner
-//private var name: String? = null
+ private var name: String? = "Kotlin"
 
 fun main(args: Array<String>) {
-
-  //  println(name?.length)
-
+    val presley = name?.length?:0 // если выражение стоящее слева от элвис опретора не является null то эвис опеатор
+    // его вернет в противном случае вернет то что стоит с права, часть кода выполняется с права только если с
+    // лева получается null
+    println(presley)
 
 
 //    print("Введите число: ")  // задание 5
