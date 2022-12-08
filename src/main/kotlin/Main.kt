@@ -3,9 +3,32 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
 
-    val x:IntArray = intArrayOf(5, 9, 45, 96)
-    x[0] = x[1] + x[2] // Сложение в массиве
-    println(x[0])
+
+
+
+
+//    val reader = Scanner(System.`in`)// перечесление массива
+//    println("First number: ")
+//    val a = reader.nextInt()
+//    println("Second number: ")
+//    val x = reader.nextInt()
+//
+//
+//    var checkArr = mutableListOf<Int>()
+//    if (a > x) {
+//        for (i in x..a )
+//            checkArr.add(i)
+//
+//    }else
+//        for (i in x.. a )
+//            checkArr.add(i)
+//    print(checkArr)
+
+
+
+//    val x:IntArray = intArrayOf(5, 9, 45, 96)
+//    x[0] = x[1] + x[2] // Сложение в массиве
+//    println(x[0])
 
 
 //    val arrNum: Array<Int> = arrayOf(9, 96, 85, 88, 63, 45, 82)

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin Elvis?: operation">
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670501152164</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Kotlin array">
+      <created>1670502923740</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670502923740</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +147,7 @@
     <MESSAGE value="Kotlin homework" />
     <MESSAGE value="Kotlin null operation" />
     <MESSAGE value="Kotlin Elvis?: operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin Elvis?: operation" />
+    <MESSAGE value="Kotlin array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin array" />
   </component>
 </project>
