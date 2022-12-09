@@ -5,6 +5,18 @@ fun main(args: Array<String>) {
 
 
 
+//val itemsArr = mutableListOf<Int>() // Коллекция
+//    val listAdd = listOf(1, 2, 3, 4, 5, 6, 7)
+//
+//    itemsArr.addAll(listAdd)
+//    itemsArr[0] = 15
+//    itemsArr.removeAt(2)
+//    itemsArr.add(-2)
+//
+//    itemsArr.forEach { i ->
+//        println(i)
+//
+//    }
 
 
 //    val reader = Scanner(System.`in`)// перечесление массива
