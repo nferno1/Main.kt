@@ -5,6 +5,19 @@ fun main(args: Array<String>) {
 
 
 
+
+//    val numbers: Array<Int> = arrayOf(5, -15, 100, -55, 20, -5, -80, 45, 25, -10) //Задание 3
+//    numbers.sort()
+//    println("Sorted array: ${numbers.contentToString()}")
+
+
+
+//    val a = "Kotlin" // задание 1
+//    val b: String? = null
+//    println(b?.length)
+//    println(a?.length)
+    
+
 //val itemsArr = mutableListOf<Int>() // Коллекция
 //    val listAdd = listOf(1, 2, 3, 4, 5, 6, 7)
 //
@@ -32,7 +45,7 @@ fun main(args: Array<String>) {
 //            checkArr.add(i)
 //
 //    }else
-//        for (i in x.. a )
+//        for (i in a.. x )
 //            checkArr.add(i)
 //    print(checkArr)
 
