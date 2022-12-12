@@ -2,6 +2,39 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
 
+//    val  arrayNum = arrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10) // вывод индексов
+////    for (num in 1..7) {
+////        println("$num: ${arrayNum[num]}")
+////        for (i in 5 until 9 )
+////            println("$i: ${arrayNum[i]}")
+//        for (b in 9 downTo 3 step 3) {
+//            println("$b: ${arrayNum[b]}")
+//    }
+
+
+//
+//    for (i in 1.. 10 step 1) { // Таблица умножния
+//        for (j in 1..10 step 1) {
+//
+//
+//            print("${i * j}\t")
+//        }
+//        println()
+//    }
+
+
+
+//    for (i in 1..10) // операторы until, downTo, step
+//        println(i)
+//
+//    for (a in 10 downTo 1 step 2)
+//        println(a)
+//
+//    for (b in 1 until 10 )
+//        println(b)
+
+
+
 //    var i = 10 // Цыклы
 //
 //    while (i > 0){
