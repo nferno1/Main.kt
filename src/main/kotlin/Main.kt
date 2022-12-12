@@ -2,6 +2,18 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
 
+    studentsList("Петров", "ПЕТР", 70)
+    studentsList("Романов", "Роман")
+
+}
+
+fun studentsList (surname: String, name: String, mark: Int = 0) { // 0 - параметр по умолчанию
+    println("Surname: $surname")
+    println("Name: $name")
+    println("mark: $mark")
+}
+
+
 //    val  arrayNum = arrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10) // вывод индексов
 ////    for (num in 1..7) {
 ////        println("$num: ${arrayNum[num]}")
@@ -48,7 +60,7 @@ fun main(args: Array<String>) {
 //        r--
 //    }while (r > 0)
 
-}
+//}
 
 // private var name: String? = "Kotlin"
 
