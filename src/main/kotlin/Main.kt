@@ -1,17 +1,42 @@
 import java.util.Scanner
 
 fun main(args: Array<String>) {
-
-    studentsList("Петров", "ПЕТР", 70)
-    studentsList("Романов", "Роман")
+    printAll(2, "two", "three" , "four")
 
 }
 
-fun studentsList (surname: String, name: String, mark: Int = 0) { // 0 - параметр по умолчанию
-    println("Surname: $surname")
-    println("Name: $name")
-    println("mark: $mark")
-}
+ fun printAll (grade: Int, vararg messages: String) {
+     println("grade: $grade")
+     for (m in messages)
+         println(m)
+ }
+//    println(sum(5, 7, 7, 3))
+//
+//}
+//
+// fun sum (vararg grade: Int) : Int { // аргументы переменной длины
+//     var result = 0
+//     for (num in grade) {
+//         result += num
+//     }
+//     return result
+// }
+
+//    println(sum(1, 2, 3, 4))
+//}
+//
+//fun sum (a: Int, b: Int, c: Int = 0, d: Int = 0 ) = a + b + c + d
+
+//    studentsList(name = "Петров", surname = "ПЕТР", mark = 70) // (name =, и.т.д - именнованные параметры
+//    studentsList(name = "Романов", surname = "Роман")
+//
+//}
+//
+//fun studentsList (surname: String, name: String, mark: Int = 0) { // 0 - параметр по умолчанию
+//    println("Surname: $surname")
+//    println("Name: $name")
+//    println("mark: $mark")
+//}
 
 
 //    val  arrayNum = arrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10) // вывод индексов
