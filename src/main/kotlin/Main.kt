@@ -1,9 +1,16 @@
 import java.util.Scanner
+
+
+
 // private var name: String? = "Kotlin"
 
 fun main(args: Array<String>) {
+    val result = mult(40)
+    print(result)
 
+}
 
+fun mult (x: Int)  = 2 * x
 
 
 //    val numbers: Array<Int> = arrayOf(5, -15, 100, -55, 20, -5, -80, 45, 25, -10) //Задание 3
@@ -98,7 +105,7 @@ fun main(args: Array<String>) {
 //    }
 
 
-}
+
 
 
 

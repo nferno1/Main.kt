@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin array collection">
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin array collection finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670567003733</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Kotlin array collection finish">
+      <created>1670687235960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670687235960</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +171,7 @@
     <MESSAGE value="Kotlin array" />
     <MESSAGE value="Kotlin array inventory" />
     <MESSAGE value="Kotlin array collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin array collection" />
+    <MESSAGE value="Kotlin array collection finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin array collection finish" />
   </component>
 </project>
