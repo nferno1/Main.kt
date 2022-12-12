@@ -1,16 +1,31 @@
 import java.util.Scanner
 
-
-
-// private var name: String? = "Kotlin"
-
 fun main(args: Array<String>) {
-    val result = mult(40)
-    print(result)
+
+//    var i = 10 // Цыклы
+//
+//    while (i > 0){
+//        println(i)
+//        i--
+//    }
+//
+//    var r = 10
+//    do {
+//        println(r)
+//        r--
+//    }while (r > 0)
 
 }
 
-fun mult (x: Int)  = 2 * x
+// private var name: String? = "Kotlin"
+
+//fun main(args: Array<String>) {
+//    val result = mult(40)
+//    print(result)
+//
+//}
+//
+//fun mult (x: Int)  = 2 * x
 
 
 //    val numbers: Array<Int> = arrayOf(5, -15, 100, -55, 20, -5, -80, 45, 25, -10) //Задание 3
