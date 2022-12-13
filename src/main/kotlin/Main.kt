@@ -1,15 +1,40 @@
 import java.util.Scanner
 
 fun main(args: Array<String>) {
-    printAll(2, "two", "three" , "four")
 
-}
+//    try { // исключения
+//
+//    }
+//    catch (e: SomeException){
+//
+//    }
+//    finally {
+//
+//    }
+//}
 
- fun printAll (grade: Int, vararg messages: String) {
-     println("grade: $grade")
-     for (m in messages)
-         println(m)
- }
+
+
+
+
+//  var number = 12
+//    if (number !in 0..10) {
+//        throw IllegalArgumentException ( // исключение
+//            "Value must be between 0 and 10"
+//        )
+//    }
+//    print(number)
+
+//}
+//    printAll(2, "two", "three" , "four")
+//
+//}
+//
+// fun printAll (grade: Int, vararg messages: String) {
+//     println("grade: $grade")
+//     for (m in messages)
+//         println(m)
+// }
 //    println(sum(5, 7, 7, 3))
 //
 //}
