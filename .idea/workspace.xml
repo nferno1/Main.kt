@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin VARIABLE TYPE ARGUMENTS">
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin &#10;Exceptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670858412915</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Kotlin &#10;Exceptions">
+      <created>1670905331172</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670905331172</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +220,10 @@
     <MESSAGE value="Kotlin functional programming 1" />
     <MESSAGE value="Kotlin ARGUMENTY PEREMENNOGO Type" />
     <MESSAGE value="Kotlin VARIABLE TYPE ARGUMENTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin VARIABLE TYPE ARGUMENTS" />
+    <MESSAGE value="Kotlin &#10;Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin &#10;Exceptions" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Main_kt$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1670990261386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

@@ -1,6 +1,68 @@
+import java.util.Random
 import java.util.Scanner
 
 fun main(args: Array<String>) {
+
+//  fun mult (x: Int, y: Int, z: Int) = x + y + z// задача 4
+//
+//    val scanner = Scanner(System.`in`)
+//    val x = scanner.nextInt()
+//    val y = scanner.nextInt()
+//    val z = scanner.nextInt()
+//    println(mult(x, y, z))
+
+
+//    fun sum (x: Int, y: Int, z: Int) = x + y == z // задача 3
+//
+//
+//        val scanner = Scanner(System.`in`)
+//        val x = scanner.nextInt()
+//        val y = scanner.nextInt()
+//        val z = scanner.nextInt()
+//        println(sum(x, y, z))
+
+
+
+
+
+
+
+
+//    val random = 3
+//    print("Enter a number: ") // задача 2
+//    val reader = Scanner(System.`in`)
+//    val number = reader.nextInt()
+//    if (number == random) {
+//        print("Yes!")
+//    }
+//    if (number != random) {
+//
+//        print("Ooops! Try again:  ")
+//
+//
+//    }
+
+}
+
+
+
+
+
+
+//    print("Введите сумму имеющуюся для покупки торта: ") // практическая задание 1
+//
+//    val scanner = Scanner(System.`in`)
+//    var cash = scanner.nextInt()
+//    if (cash < 500)
+//        print("false")
+//    if (cash in 500..1500){
+//        print("true")
+//
+//    }
+//    if (cash > 1500)
+//        print("Вы можете купить что то ещё ")
+
+
 
 //    try { // исключения
 //
