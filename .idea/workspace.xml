@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin &#10;Exceptions">
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin &#10; open scool">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670905331172</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Kotlin &#10; open scool">
+      <created>1670998240740</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670998240740</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +228,8 @@
     <MESSAGE value="Kotlin ARGUMENTY PEREMENNOGO Type" />
     <MESSAGE value="Kotlin VARIABLE TYPE ARGUMENTS" />
     <MESSAGE value="Kotlin &#10;Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin &#10;Exceptions" />
+    <MESSAGE value="Kotlin &#10; open scool" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin &#10; open scool" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Main_kt$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1670990261386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

@@ -1,7 +1,21 @@
-import java.util.Random
-import java.util.Scanner
+
 
 fun main(args: Array<String>) {
+
+    outFunction("outer function")
+}
+
+fun outFunction (outFun: String){
+    val outInt = 15
+
+    fun inFunction (inFun: String){
+        println(inFun)
+        println(outFun)
+        println(outInt)
+    }
+
+    inFunction("inner function")
+}
 
 //  fun mult (x: Int, y: Int, z: Int) = x + y + z// задача 4
 //
@@ -42,7 +56,7 @@ fun main(args: Array<String>) {
 //
 //    }
 
-}
+
 
 
 
@@ -245,7 +259,8 @@ fun main(args: Array<String>) {
 
 
 
-//    val presley = name?.length?:0 // если выражение стоящее слева от элвис опретора не является null то эвис опеатор
+//    val presley = name?.length?:0 // если выражение стоящее слева от Элвис оператора не является null то Элвис
+//    оператор
 //    // его вернет в противном случае вернет то что стоит с права, часть кода выполняется с права только если с
 //    // лева получается null
 //    println(presley)
