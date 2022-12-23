@@ -1,17 +1,22 @@
 fun main(){
 
-    val ivan = Student()
+   val ivan: Student = Student("Ivan", 89.9)
+    println(ivan.name + " mark: " + ivan.mark)
+
+
+
+   /* val ivan = Student()
     ivan.name = "Ivan"
     ivan.surname = "Ivanov"
-    ivan.mark = 88.3
+    ivan.mark = -88.3
 
     val petr = Student()
-    petr.name = "Petr"
+    petr.name = " "
     petr.surname = " "
     petr.mark = 96.2
 
     println("${ivan.name}, ${ivan.surname}: ${ivan.mark} mark")
-    println("${petr.name}, ${petr.surname}: ${petr.mark} mark")
+    println("${petr.name}, ${petr.surname}: ${petr.mark} mark")*/
 
     /*val student = Student()
     println(student.name)
