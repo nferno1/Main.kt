@@ -1,21 +1,39 @@
-
-
 fun main(args: Array<String>) {
 
-    outFunction("outer function")
+    
+
+
+
 }
 
-fun outFunction (outFun: String){
-    val outInt = 15
 
-    fun inFunction (inFun: String){
-        println(inFun)
-        println(outFun)
-        println(outInt)
+    /*val scanner = Scanner(System.`in`)
+    println( "How much money do you have? ")
+    var money = scanner.nextInt()
+    if (money in 500..1500)
+        println(true)
+    else if (money>1500) {
+        println(true)
+        println("You can buy something else")
     }
+    else
+        println(false)*/
 
-    inFunction("inner function")
-}
+
+//    outFunction("outer function")
+//}
+//
+//fun outFunction (outFun: String){
+//    val outInt = 15
+//
+//    fun inFunction (inFun: String){
+//        println(inFun)
+//        println(outFun)
+//        println(outInt)
+//    }
+//
+//    inFunction("inner function")
+//}
 
 //  fun mult (x: Int, y: Int, z: Int) = x + y + z// задача 4
 //
