@@ -1,23 +1,42 @@
-fun main(args: Array<String>) {
 
-    
+ val x = 10
+
+fun main() {
+
+
+
 
 
 
 }
 
+   /* val ebola = Virus ("Ebola", 2013, 28640)
+    ebola.printVirus()
+    ebola.isVaccineFound()
+    val covid19 = Virus ("Covid 2019", 2019, 1_003_159)
+    covid19.printVirus()
+    covid19.isVaccineFound()
 
-    /*val scanner = Scanner(System.`in`)
-    println( "How much money do you have? ")
-    var money = scanner.nextInt()
-    if (money in 500..1500)
-        println(true)
-    else if (money>1500) {
-        println(true)
-        println("You can buy something else")
-    }
-    else
-        println(false)*/
+
+
+}
+
+fun Virus.isVaccineFound() = println((year > 1918) and  (year < 2016)) // расширение класса Virus
+*/
+
+
+
+/*val scanner = Scanner(System.`in`)
+println( "How much money do you have? ")
+var money = scanner.nextInt()
+if (money in 500..1500)
+    println(true)
+else if (money>1500) {
+    println(true)
+    println("You can buy something else")
+}
+else
+    println(false)*/
 
 
 //    outFunction("outer function")
