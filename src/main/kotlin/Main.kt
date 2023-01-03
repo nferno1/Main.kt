@@ -1,14 +1,16 @@
 
- val x = 10
-
 fun main() {
 
-
-
-
-
+   val google = Google()
+   google.run()
+   google.stop()
 
 }
+
+ /*  val test1 = Music().Band().classicMusic(409)
+
+
+}*/
 
    /* val ebola = Virus ("Ebola", 2013, 28640)
     ebola.printVirus()

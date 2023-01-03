@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin general constructions">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Machine.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Virus.kt" afterDir="false" />
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="modification">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Android.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Firebase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Google.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Music.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -24,6 +26,7 @@
         <option value="Kotlin File" />
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
       </list>
     </option>
   </component>
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671813708562</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="modification">
+      <created>1672750066967</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672750066967</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +319,8 @@
     <MESSAGE value="Kotlin function" />
     <MESSAGE value="Kotlin Classes" />
     <MESSAGE value="Kotlin general constructions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin general constructions" />
+    <MESSAGE value="modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Main_kt$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1670990261386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
