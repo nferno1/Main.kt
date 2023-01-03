@@ -1,11 +1,25 @@
 
 fun main() {
 
-   val google = Google()
+    val xiaomiPhone = KitKat("Android 10", "Redmi", 6000 )
+    val samsungPhone = KitKat("Android 12", "S10", 12000)
+
+    println(xiaomiPhone.printInfo())
+    println(xiaomiPhone.isExpensive())
+    println(samsungPhone.printInfo())
+    println(samsungPhone.isExpensive())
+
+    val iPhone14 = IOS("Iphone 14", 80000)
+    println(iPhone14.printInfo())
+    println(iPhone14.isExpensive())
+
+}
+
+   /*val google = Google()
    google.run()
    google.stop()
 
-}
+}*/
 
  /*  val test1 = Music().Band().classicMusic(409)
 
