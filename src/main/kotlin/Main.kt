@@ -1,7 +1,27 @@
 
 fun main() {
 
-    val xiaomiPhone = KitKat("Android 10", "Redmi", 6000 )
+  val david = Human("David", 36, false)
+  val human = david.component1()
+  val age = david.component2()
+  val isAlive = david.component3()//Диструктор
+//  val (human, age,isAlive) = david
+  println(human)
+  println(age)
+  println(isAlive)
+
+
+}
+  /*val ivan = NewStudent("Ivan", 90, 5)
+    val peter = ivan.copy("Petr", 88)
+    println(ivan)
+    println(peter)
+
+
+
+}
+*/
+   /* val xiaomiPhone = KitKat("Android 10", "Redmi", 6000 )
     val samsungPhone = KitKat("Android 12", "S10", 12000)
 
     println(xiaomiPhone.printInfo())
@@ -13,7 +33,7 @@ fun main() {
     println(iPhone14.printInfo())
     println(iPhone14.isExpensive())
 
-}
+}*/
 
    /*val google = Google()
    google.run()
