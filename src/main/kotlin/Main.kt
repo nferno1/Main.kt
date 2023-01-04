@@ -1,7 +1,22 @@
 
 fun main() {
 
-  val david = Human("David", 36, false)
+  for (printAll in Musik.values())
+    println(printAll)
+
+  println(Musik.valueOf("METAL"))
+
+ /* val alt: Musik = Musik.ROCK
+  println(alt.name)
+  println(alt.ordinal)*/
+
+  /*val alt: Musik = Musik.ALTERNATIVE
+  println(alt.band)
+  println(Musik.ALTERNATIVE.band)
+*/
+}
+
+ /* val david = Human("David", 36, false)
   val human = david.component1()
   val age = david.component2()
   val isAlive = david.component3()//Диструктор
@@ -11,7 +26,7 @@ fun main() {
   println(isAlive)
 
 
-}
+}*/
   /*val ivan = NewStudent("Ivan", 90, 5)
     val peter = ivan.copy("Petr", 88)
     println(ivan)
