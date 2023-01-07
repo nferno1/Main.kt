@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin data class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Musik.kt" afterDir="false" />
+    <list default="true" id="fc2cb349-48a2-4b3b-9b29-9f260123d4f9" name="Changes" comment="Kotlin enam class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Air.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Airbus.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Airplane.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boeing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Parrot.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/NewStudent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/NewStudent.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +27,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
-        <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Data Class" />
         <option value="Kotlin Enum" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -50,18 +57,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/Kotlin/ProjectK&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Project/Kotlin/ProjectK",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.AirKt">
+    <configuration name="AirKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AirKt" />
+      <module name="ProjectK" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClasesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClasesKt" />
       <module name="ProjectK" />
@@ -85,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AirKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MachineKt" />
         <item itemvalue="Kotlin.ClasesKt" />
@@ -296,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672832083784</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Kotlin enam class">
+      <created>1672834590546</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672834590546</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kotlin type &#10;continuation" />
     <MESSAGE value="Kotlin if" />
     <MESSAGE value="Kotlin when" />
     <MESSAGE value="Kotlin homework" />
@@ -348,7 +369,8 @@
     <MESSAGE value="Kotlin modific class" />
     <MESSAGE value="Kotlin abstract metod" />
     <MESSAGE value="Kotlin data class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin data class" />
+    <MESSAGE value="Kotlin enam class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin enam class" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Main_kt$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1670990261386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

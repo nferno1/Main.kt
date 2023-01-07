@@ -1,10 +1,52 @@
 
 fun main() {
 
-  for (printAll in Musik.values())
+}
+
+
+
+
+/*
+fun main() { // задача 3
+
+    var car1 = Car("Miniven", "Nissan", 1999)
+    car1.printAll()
+    var car2 = Car("Sedan", "AUDI", 1989)
+    car2.printAll()
+
+}
+
+fun Car.printAll() {
+    println("$type, $model, $year")
+}
+*/
+
+
+
+
+
+    /*val aircraft = Airplane(156, 2015, "Airbus A-319") // задача 2
+
+    println("${aircraft.seats}, ${aircraft.year}, ${aircraft.model}")
+    //aircraft.year = 2014
+    aircraft.model = "Airbus A-320"
+    println("${aircraft.model}")*/
+
+
+
+    /* val parrot1 = Parrot() // задача 1
+        parrot1.nickname = "erosha"
+        parrot1.age = -3
+        println("${parrot1.nickname}, ${parrot1.age}")
+    */
+
+
+//}
+
+  /*for (printAll in Musik.values())
     println(printAll)
 
-  println(Musik.valueOf("METAL"))
+  println(Musik.valueOf("METAL"))*/
 
  /* val alt: Musik = Musik.ROCK
   println(alt.name)
@@ -14,7 +56,7 @@ fun main() {
   println(alt.band)
   println(Musik.ALTERNATIVE.band)
 */
-}
+/*}*/
 
  /* val david = Human("David", 36, false)
   val human = david.component1()
